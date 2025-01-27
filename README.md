@@ -1,2 +1,7 @@
-# prompt-generator
-Using OpenAI and Claude API to generate enhanced prompt.
+# Prompt Generator
+Using Claude and OpenAI API to generate prompt by task.
+
+# Command
+```
+streamlit run streamlit_app.py
+```
